@@ -1,2 +1,12 @@
-I'll add a readme later and in Russian probably
-Though, maybe I'll add English there as well, but currently no plans for that
+# AudioRivoki
+
+Android-приложение для прослушивания и удобной навигации по аудиокнигам для тех, кто научил родственников старшего поколения скачивать архивы, но путь распаковки и навигации в файлах им даётся тяжело
+
+## Функционал
+- Удобный интерфейс для воспроизведения аудиофайлов
+- Создание катологов (папок) и отслеживание прогресса прослушивания
+- Настройка параметров воспроизведения
+
+## Технологии
+- Android SDK / Kotlin / Java
+- AI-Assisted Development (LLM / Cursor)
