@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AudiobookArchivePlayer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenBackground">#FFFFFF</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+
+    <style name="Theme.AudiobookArchivePlayer.Dark" parent="Theme.AudiobookArchivePlayer">
+        <item name="android:windowBackground">#1f1f1f</item>
+        <item name="android:colorBackground">#1f1f1f</item>
+        <item name="android:navigationBarColor">#1f1f1f</item>
+        <item name="android:statusBarColor">#1f1f1f</item>
+        <item name="android:windowSplashScreenBackground">#1f1f1f</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>
